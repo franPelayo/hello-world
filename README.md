@@ -1,2 +1,3 @@
 # hello-world
-This is my first thing in GitHub
+
+Hi There! This is just a test text :)
